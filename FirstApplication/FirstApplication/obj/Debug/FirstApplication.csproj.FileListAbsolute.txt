@@ -1,0 +1,6 @@
+c:\users\eloff\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\bin\FirstApplication.dll.config
+c:\users\eloff\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\bin\FirstApplication.dll
+c:\users\eloff\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\bin\FirstApplication.pdb
+c:\users\eloff\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+c:\users\eloff\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.dll
+c:\users\eloff\documents\visual studio 2013\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
