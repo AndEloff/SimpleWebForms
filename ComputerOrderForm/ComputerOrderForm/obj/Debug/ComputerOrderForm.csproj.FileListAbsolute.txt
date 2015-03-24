@@ -1,0 +1,6 @@
+c:\users\eloff\documents\visual studio 2013\Projects\ComputerOrderForm\ComputerOrderForm\bin\ComputerOrderForm.dll.config
+c:\users\eloff\documents\visual studio 2013\Projects\ComputerOrderForm\ComputerOrderForm\bin\ComputerOrderForm.dll
+c:\users\eloff\documents\visual studio 2013\Projects\ComputerOrderForm\ComputerOrderForm\bin\ComputerOrderForm.pdb
+c:\users\eloff\documents\visual studio 2013\Projects\ComputerOrderForm\ComputerOrderForm\obj\Debug\ComputerOrderForm.csprojResolveAssemblyReference.cache
+c:\users\eloff\documents\visual studio 2013\Projects\ComputerOrderForm\ComputerOrderForm\obj\Debug\ComputerOrderForm.dll
+c:\users\eloff\documents\visual studio 2013\Projects\ComputerOrderForm\ComputerOrderForm\obj\Debug\ComputerOrderForm.pdb
