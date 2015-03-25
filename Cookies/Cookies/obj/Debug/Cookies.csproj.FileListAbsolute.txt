@@ -1,0 +1,5 @@
+c:\users\eloff\documents\visual studio 2013\Projects\Cookies\Cookies\bin\Cookies.dll.config
+c:\users\eloff\documents\visual studio 2013\Projects\Cookies\Cookies\bin\Cookies.dll
+c:\users\eloff\documents\visual studio 2013\Projects\Cookies\Cookies\bin\Cookies.pdb
+c:\users\eloff\documents\visual studio 2013\Projects\Cookies\Cookies\obj\Debug\Cookies.dll
+c:\users\eloff\documents\visual studio 2013\Projects\Cookies\Cookies\obj\Debug\Cookies.pdb

@@ -1,0 +1,6 @@
+c:\users\eloff\documents\visual studio 2013\Projects\SessionVApplicationState\SessionVApplicationState\bin\SessionVApplicationState.dll.config
+c:\users\eloff\documents\visual studio 2013\Projects\SessionVApplicationState\SessionVApplicationState\bin\SessionVApplicationState.dll
+c:\users\eloff\documents\visual studio 2013\Projects\SessionVApplicationState\SessionVApplicationState\bin\SessionVApplicationState.pdb
+c:\users\eloff\documents\visual studio 2013\Projects\SessionVApplicationState\SessionVApplicationState\obj\Debug\SessionVApplicationState.csprojResolveAssemblyReference.cache
+c:\users\eloff\documents\visual studio 2013\Projects\SessionVApplicationState\SessionVApplicationState\obj\Debug\SessionVApplicationState.dll
+c:\users\eloff\documents\visual studio 2013\Projects\SessionVApplicationState\SessionVApplicationState\obj\Debug\SessionVApplicationState.pdb
