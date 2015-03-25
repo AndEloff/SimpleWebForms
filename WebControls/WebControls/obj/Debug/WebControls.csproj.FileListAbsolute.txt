@@ -1,0 +1,6 @@
+c:\users\eloff\documents\visual studio 2013\Projects\WebControls\WebControls\bin\WebControls.dll.config
+c:\users\eloff\documents\visual studio 2013\Projects\WebControls\WebControls\bin\WebControls.dll
+c:\users\eloff\documents\visual studio 2013\Projects\WebControls\WebControls\bin\WebControls.pdb
+c:\users\eloff\documents\visual studio 2013\Projects\WebControls\WebControls\obj\Debug\WebControls.csprojResolveAssemblyReference.cache
+c:\users\eloff\documents\visual studio 2013\Projects\WebControls\WebControls\obj\Debug\WebControls.dll
+c:\users\eloff\documents\visual studio 2013\Projects\WebControls\WebControls\obj\Debug\WebControls.pdb
