@@ -1,0 +1,7 @@
+div, span{
+	color: red;
+}
+
+h1,div{
+	background-color: gray;
+}
